@@ -1,2 +1,9 @@
 /try.py
 *.mat
+*.npy
+
+# vscode related
+.vscode
+
+# tmp file
+~*
